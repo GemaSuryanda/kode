@@ -2,6 +2,9 @@ import socket
 
 # Ganti alamat IP dan port sesuai dengan server Netcat Anda
 server_ip = "192.168.18.194"
+
+# penambahan server ip baru
+server_ip = "192.168.18.198"
 server_port = 8080
 
 # Membuat objek socket
