@@ -1,3 +1,5 @@
+# ada perubahan pada git sikahkan cari
+
 import socket
 
 # Ganti alamat IP dan port sesuai dengan server Netcat Anda
