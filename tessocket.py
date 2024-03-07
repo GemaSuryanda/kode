@@ -3,7 +3,7 @@
 import socket
 
 # Ganti alamat IP dan port sesuai dengan server Netcat Anda
-server_ip = "192.168.18.194"
+server_ip = "192.168.18.300"
 
 # penambahan server ip baru
 server_ip = "192.168.18.198"
